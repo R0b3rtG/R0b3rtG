@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0b3rtG
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: robertiancu24@gmail.com
 
